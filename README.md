@@ -1,3 +1,3 @@
-Blocksit-Jquery
+BlocksIt.js
 ===============
 For Documentation, check http://www.inwebson.com/jquery/blocksit-js-dynamic-grid-layout-jquery-plugin/
